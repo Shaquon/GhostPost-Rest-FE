@@ -1,3 +1,8 @@
+# Ghost Post Front end
+
+- this is a small app that let's you post Boasts or Roasts. It allows you upvote, downvote, to sort by vote, and filter by boast or roast. 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
